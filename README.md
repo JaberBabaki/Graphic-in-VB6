@@ -75,7 +75,8 @@ End Sub
 ![khatchin](khatchin/khatchin.jpg)
 
 
-#  	naghleh
+# naghleh
+```VB6
 Private Sub cp(ByVal xc As Integer, ByVal yc As Integer, ByVal r As Integer)
     pi = 4 * Atn(1)
     Circle (xc, yc), r, vbRed, 0, pi
@@ -130,5 +131,5 @@ Private Sub cp(ByVal xc As Integer, ByVal yc As Integer, ByVal r As Integer)
        s = s - 1
      Next
 End Sub
-
+```
 ![naghaleh](naghleh/naghaleh.jpg)
