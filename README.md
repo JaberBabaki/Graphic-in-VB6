@@ -1,5 +1,5 @@
 # Graphic-in-VB6
-Working with graphics in Visual Basic VB6
+> Fall 2011
 
 # hexagon
 ```VB6
